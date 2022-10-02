@@ -7,12 +7,12 @@ Class: CIS106-fall
 
 ## Question 2
 
-! [q2](screenshots/one.JPG)
+![q2](screenshots/one.JPG)
 
 ## Question 3
 
-! [q3](screenshots/nine.JPG)
+![q3](screenshots/nine.JPG)
 
 ## Question 4
 
-! [q4](screenshots/twelve.JPG)
+![q4](screenshots/twelve.JPG)
