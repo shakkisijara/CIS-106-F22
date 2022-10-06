@@ -104,3 +104,7 @@ e. Definition of the following terms:
 * Repository: a large collection of software available for download. 
 
 ![page6](page6.png)
+
+![examples1](examples1.png)
+
+![examples2](examples2.png)
