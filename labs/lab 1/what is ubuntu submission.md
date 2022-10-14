@@ -7,13 +7,13 @@
 
 ### Currently supported releases
 
-| Version | Code Name | Release Date | End of Support | Security support end |
-| ------- | --------- | ------------ | -------------- | -------------------- |
-| 14.04 LTS | Trusty Tahr | 2014-04-17 | 2019-04 | 2034-04 |
-| 16.04 LTS | Xenial Xerus | 2016-04-21 | 2021-04 | 2026-04 |
-| 18.04 LTS | Bionic Beaver | 2018-04-26 | 2023-04 | 2028-04 |
-| 20.04 LTS | Focal Fossa | 2020-04-23 | 2025-04 | 2030-04 | 
-| 22.04 LTS | Jammy Jellyfish | 2022-04-21 | 2027-04 | 2032-04 |
+| Version   | Code Name       | Release Date | End of Support | Security support end |
+| --------- | --------------- | ------------ | -------------- | -------------------- |
+| 14.04 LTS | Trusty Tahr     | 2014-04-17   | 2019-04        | 2034-04              |
+| 16.04 LTS | Xenial Xerus    | 2016-04-21   | 2021-04        | 2026-04              |
+| 18.04 LTS | Bionic Beaver   | 2018-04-26   | 2023-04        | 2028-04              |
+| 20.04 LTS | Focal Fossa     | 2020-04-23   | 2025-04        | 2030-04              |
+| 22.04 LTS | Jammy Jellyfish | 2022-04-21   | 2027-04        | 2032-04              |
 
 ## Ubuntu Features 
 ![Ubuntu Features](ubuntu-desktop.png)

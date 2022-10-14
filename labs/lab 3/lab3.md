@@ -27,7 +27,7 @@ Has no submission
 
 1. sudo apt install blockattack+ dragonplayer+ epiphany-browser+ getmail6+ draai+
    
-2. sudo apt install blockattack- dragonplayer- epiphany-browser- getmail6- draai-
+2. sudo apt remove blockattack- dragonplayer- epiphany-browser- getmail6- draai-
    
 3. sudo apt install blockattack+ dragonplayer+ epiphany-browser- getmail6- draai-
 
