@@ -16,18 +16,19 @@ b. ![practice2](wr4practice2.png)
 c. ![practice3](wr4practice3.png)
    ![practice3.1](wr4practice3.1.png)
 
-2.| Directory | Data Stored in Directory                                                                                                                    |
-  | --------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-  | bin       | essential commands                                                                                                                          |
-  | dev       | device files                                                                                                                                |
-  | etc       | system configuration files                                                                                                                  |
-  | home      | user home directories                                                                                                                       |
-  | media     | mount point for removable media, such as DVDs and floppy disks                                                                              |
-  | opt       | add-on software packages                                                                                                                    |
-  | proc      | kernel information, process control, system hardware information                                                                            |
-  | srv       | information relating to services that run on the system                                                                                     |
-  | usr       | software not essential for system operation, such as applications                                                                           |
-  | var       | dedicated to variable data, such as logs, databases, websites, and temporary spool(email etc.) files that persist from one boot to the next |
+2.
+| Directory | Data Stored in Directory                                                                                                                    |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| bin       | essential commands                                                                                                                          |
+| dev       | device files                                                                                                                                |
+| etc       | system configuration files                                                                                                                  |
+| home      | user home directories                                                                                                                       |
+| media     | mount point for removable media, such as DVDs and floppy disks                                                                              |
+| opt       | add-on software packages                                                                                                                    |
+| proc      | kernel information, process control, system hardware information                                                                            |
+| srv       | information relating to services that run on the system                                                                                     |
+| usr       | software not essential for system operation, such as applications                                                                           |
+| var       | dedicated to variable data, such as logs, databases, websites, and temporary spool(email etc.) files that persist from one boot to the next |
 
 | Command | What it does                                                                                                                                          | Syntax           | Example |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
