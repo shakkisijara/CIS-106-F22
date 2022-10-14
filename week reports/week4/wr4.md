@@ -16,7 +16,8 @@ b. ![practice2](wr4practice2.png)
 c. ![practice3](wr4practice3.png)
    ![practice3.1](wr4practice3.1.png)
 
-2.
+2. 
+
 | Directory | Data Stored in Directory                                                                                                                    |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | bin       | essential commands                                                                                                                          |
