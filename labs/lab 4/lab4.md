@@ -1,7 +1,7 @@
 ---
 Name: Shakira Kisijara
 Semester: Fall 2022
-Course: CIS-106
+Course: CIS 106
 ---
 
 # Lab 4 Submission
