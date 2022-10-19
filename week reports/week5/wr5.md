@@ -91,3 +91,4 @@ To copy directories use the -r option: cp -r + directory to copy + destination
 * Practice 4
   
 ![practice4](practice4.png)
+
