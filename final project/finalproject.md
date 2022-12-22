@@ -205,4 +205,3 @@ Shows that the ip address changed works on regular server.
 ![snapshotapache](snapshotapache.JPG)
 Shows the snapshot of apache installed.
 
-
