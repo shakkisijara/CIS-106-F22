@@ -4,7 +4,7 @@ Semester: Fall 22
 Course: CIS 106
 ---
 
-# Deliverable 1 
+# Deliverable 1  
 
 > Tutorial can be found [here](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
 
